@@ -6,7 +6,7 @@ Me chamo Eduardo Oliveira Hoffmann, tenho 18 anos e estou cursando o último ano
 
 ### 🤖 Linguagens e Tecnologias
 
-<div> 
+<p> 
 <img 
     alt="HTML"
     title="HTML" 
@@ -56,7 +56,7 @@ Me chamo Eduardo Oliveira Hoffmann, tenho 18 anos e estou cursando o último ano
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-</div>
+</p>
 
 
 <br/>
