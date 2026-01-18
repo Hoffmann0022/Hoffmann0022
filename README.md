@@ -69,7 +69,7 @@ Me chamo Eduardo Oliveira Hoffmann, tenho 18 anos e estou cursando o último ano
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="500" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoffmann0022&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
