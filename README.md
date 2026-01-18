@@ -1,10 +1,10 @@
-# 👨‍💻 Eduardo Oliviera Hoffmann
+## 👨‍💻 Eduardo Oliviera Hoffmann
 
 Me chamo Eduardo Oliveira Hoffmann, tenho 18 anos e estou cursando o último ano do endino médio juntamente com o curso técnco em informática no IFSUL Câmpus Sapiranga.
 
----
+<br/>
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <p> 
 <img 
@@ -58,11 +58,9 @@ Me chamo Eduardo Oliveira Hoffmann, tenho 18 anos e estou cursando o último ano
 />
 </p>
 
-
-<br/>
 <br/>
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
 <p>
   
